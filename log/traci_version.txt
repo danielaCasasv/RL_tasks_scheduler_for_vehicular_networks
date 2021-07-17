@@ -1,0 +1,2135 @@
+DEBUG:root:Logging to ../log/traci_version.txt
+DEBUG:root:Finding unused port
+DEBUG:root:Port 60491 was found
+DEBUG:root:Starting SUMO as a server
+ERROR:root:Something bad happened
+Traceback (most recent call last):
+  File "generic_its.py", line 100, in start_simulation
+    run(network, begin, end, interval, route_log, replication, float(radius))
+  File "generic_its.py", line 30, in run
+    print 'VERSION' + traci.getVersion()
+TypeError: cannot concatenate 'str' and 'tuple' objects
+ERROR:root:Terminating SUMO
+Traceback (most recent call last):
+  File "generic_its.py", line 100, in start_simulation
+    run(network, begin, end, interval, route_log, replication, float(radius))
+  File "generic_its.py", line 30, in run
+    print 'VERSION' + traci.getVersion()
+TypeError: cannot concatenate 'str' and 'tuple' objects
+DEBUG:root:Logging to ../log/traci_version.txt
+DEBUG:root:Finding unused port
+DEBUG:root:Port 60507 was found
+DEBUG:root:Starting SUMO as a server
+DEBUG:root:Building road graph
+DEBUG:root:Reading network file
+DEBUG:root:Reading RSU list
+DEBUG:root:Mapping edges within each RSU
+DEBUG:root:Running simulation now
+DEBUG:root:Minimum expected number of vehicles: 2
+DEBUG:root:Simulation time 0
+DEBUG:root:Updating travel time on roads at simulation time 0
+DEBUG:root:Minimum expected number of vehicles: 2
+DEBUG:root:Simulation time 1
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 2
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 3
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 4
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 5
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 6
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 7
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 8
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 9
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 10
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 11
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 12
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 13
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 14
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 15
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 16
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 17
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 18
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 19
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 20
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 21
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 22
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 23
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 24
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 25
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 26
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 27
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 28
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 29
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 30
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 31
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 32
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 33
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 34
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 35
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 36
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 37
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 38
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 39
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 40
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 41
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 42
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 43
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 44
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 45
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 46
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 47
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 48
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 49
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 50
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 51
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 52
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 53
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 54
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 55
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 56
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 57
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 58
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 59
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 60
+DEBUG:root:Updating travel time on roads at simulation time 60
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 61
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 62
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 63
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 64
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 65
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 66
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 67
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 68
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 69
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 70
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 71
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 72
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 73
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 74
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 75
+DEBUG:root:Minimum expected number of vehicles: 201
+DEBUG:root:Simulation time 76
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 77
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 78
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 79
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 80
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 81
+DEBUG:root:Minimum expected number of vehicles: 199
+DEBUG:root:Simulation time 82
+DEBUG:root:Minimum expected number of vehicles: 199
+DEBUG:root:Simulation time 83
+DEBUG:root:Minimum expected number of vehicles: 198
+DEBUG:root:Simulation time 84
+DEBUG:root:Minimum expected number of vehicles: 198
+DEBUG:root:Simulation time 85
+DEBUG:root:Minimum expected number of vehicles: 197
+DEBUG:root:Simulation time 86
+DEBUG:root:Minimum expected number of vehicles: 196
+DEBUG:root:Simulation time 87
+DEBUG:root:Minimum expected number of vehicles: 196
+DEBUG:root:Simulation time 88
+DEBUG:root:Minimum expected number of vehicles: 196
+DEBUG:root:Simulation time 89
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 90
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 91
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 92
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 93
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 94
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 95
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 96
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 97
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 98
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 99
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 100
+DEBUG:root:Minimum expected number of vehicles: 194
+DEBUG:root:Simulation time 101
+DEBUG:root:Minimum expected number of vehicles: 194
+DEBUG:root:Simulation time 102
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 103
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 104
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 105
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 106
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 107
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 108
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 109
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 110
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 111
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 112
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 113
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 114
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 115
+DEBUG:root:Minimum expected number of vehicles: 192
+DEBUG:root:Simulation time 116
+DEBUG:root:Minimum expected number of vehicles: 192
+DEBUG:root:Simulation time 117
+DEBUG:root:Minimum expected number of vehicles: 192
+DEBUG:root:Simulation time 118
+DEBUG:root:Minimum expected number of vehicles: 190
+DEBUG:root:Simulation time 119
+DEBUG:root:Minimum expected number of vehicles: 188
+DEBUG:root:Simulation time 120
+DEBUG:root:Updating travel time on roads at simulation time 120
+DEBUG:root:Minimum expected number of vehicles: 188
+DEBUG:root:Simulation time 121
+DEBUG:root:Minimum expected number of vehicles: 187
+DEBUG:root:Simulation time 122
+DEBUG:root:Minimum expected number of vehicles: 186
+DEBUG:root:Simulation time 123
+DEBUG:root:Minimum expected number of vehicles: 186
+DEBUG:root:Simulation time 124
+DEBUG:root:Minimum expected number of vehicles: 186
+DEBUG:root:Simulation time 125
+DEBUG:root:Minimum expected number of vehicles: 186
+DEBUG:root:Simulation time 126
+DEBUG:root:Minimum expected number of vehicles: 185
+DEBUG:root:Simulation time 127
+DEBUG:root:Minimum expected number of vehicles: 185
+DEBUG:root:Simulation time 128
+DEBUG:root:Minimum expected number of vehicles: 185
+DEBUG:root:Simulation time 129
+DEBUG:root:Minimum expected number of vehicles: 184
+DEBUG:root:Simulation time 130
+DEBUG:root:Minimum expected number of vehicles: 183
+DEBUG:root:Simulation time 131
+DEBUG:root:Minimum expected number of vehicles: 182
+DEBUG:root:Simulation time 132
+DEBUG:root:Minimum expected number of vehicles: 182
+DEBUG:root:Simulation time 133
+DEBUG:root:Minimum expected number of vehicles: 181
+DEBUG:root:Simulation time 134
+DEBUG:root:Minimum expected number of vehicles: 180
+DEBUG:root:Simulation time 135
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 136
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 137
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 138
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 139
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 140
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 141
+DEBUG:root:Minimum expected number of vehicles: 174
+DEBUG:root:Simulation time 142
+DEBUG:root:Minimum expected number of vehicles: 174
+DEBUG:root:Simulation time 143
+DEBUG:root:Minimum expected number of vehicles: 174
+DEBUG:root:Simulation time 144
+DEBUG:root:Minimum expected number of vehicles: 172
+DEBUG:root:Simulation time 145
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 146
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 147
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 148
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 149
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 150
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 151
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 152
+DEBUG:root:Minimum expected number of vehicles: 170
+DEBUG:root:Simulation time 153
+DEBUG:root:Minimum expected number of vehicles: 169
+DEBUG:root:Simulation time 154
+DEBUG:root:Minimum expected number of vehicles: 169
+DEBUG:root:Simulation time 155
+DEBUG:root:Minimum expected number of vehicles: 168
+DEBUG:root:Simulation time 156
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 157
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 158
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 159
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 160
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 161
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 162
+DEBUG:root:Minimum expected number of vehicles: 165
+DEBUG:root:Simulation time 163
+DEBUG:root:Minimum expected number of vehicles: 164
+DEBUG:root:Simulation time 164
+DEBUG:root:Minimum expected number of vehicles: 163
+DEBUG:root:Simulation time 165
+DEBUG:root:Minimum expected number of vehicles: 163
+DEBUG:root:Simulation time 166
+DEBUG:root:Minimum expected number of vehicles: 162
+DEBUG:root:Simulation time 167
+DEBUG:root:Minimum expected number of vehicles: 162
+DEBUG:root:Simulation time 168
+DEBUG:root:Minimum expected number of vehicles: 161
+DEBUG:root:Simulation time 169
+DEBUG:root:Minimum expected number of vehicles: 160
+DEBUG:root:Simulation time 170
+DEBUG:root:Minimum expected number of vehicles: 160
+DEBUG:root:Simulation time 171
+DEBUG:root:Minimum expected number of vehicles: 160
+DEBUG:root:Simulation time 172
+DEBUG:root:Minimum expected number of vehicles: 160
+DEBUG:root:Simulation time 173
+DEBUG:root:Minimum expected number of vehicles: 158
+DEBUG:root:Simulation time 174
+DEBUG:root:Minimum expected number of vehicles: 157
+DEBUG:root:Simulation time 175
+DEBUG:root:Minimum expected number of vehicles: 157
+DEBUG:root:Simulation time 176
+DEBUG:root:Minimum expected number of vehicles: 157
+DEBUG:root:Simulation time 177
+DEBUG:root:Minimum expected number of vehicles: 156
+DEBUG:root:Simulation time 178
+DEBUG:root:Minimum expected number of vehicles: 156
+DEBUG:root:Simulation time 179
+DEBUG:root:Minimum expected number of vehicles: 155
+DEBUG:root:Simulation time 180
+DEBUG:root:Updating travel time on roads at simulation time 180
+DEBUG:root:Minimum expected number of vehicles: 153
+DEBUG:root:Simulation time 181
+DEBUG:root:Minimum expected number of vehicles: 152
+DEBUG:root:Simulation time 182
+DEBUG:root:Minimum expected number of vehicles: 152
+DEBUG:root:Simulation time 183
+DEBUG:root:Minimum expected number of vehicles: 152
+DEBUG:root:Simulation time 184
+DEBUG:root:Minimum expected number of vehicles: 151
+DEBUG:root:Simulation time 185
+DEBUG:root:Minimum expected number of vehicles: 151
+DEBUG:root:Simulation time 186
+DEBUG:root:Minimum expected number of vehicles: 151
+DEBUG:root:Simulation time 187
+DEBUG:root:Minimum expected number of vehicles: 150
+DEBUG:root:Simulation time 188
+DEBUG:root:Minimum expected number of vehicles: 150
+DEBUG:root:Simulation time 189
+DEBUG:root:Minimum expected number of vehicles: 150
+DEBUG:root:Simulation time 190
+DEBUG:root:Minimum expected number of vehicles: 150
+DEBUG:root:Simulation time 191
+DEBUG:root:Minimum expected number of vehicles: 149
+DEBUG:root:Simulation time 192
+DEBUG:root:Minimum expected number of vehicles: 148
+DEBUG:root:Simulation time 193
+DEBUG:root:Minimum expected number of vehicles: 146
+DEBUG:root:Simulation time 194
+DEBUG:root:Minimum expected number of vehicles: 146
+DEBUG:root:Simulation time 195
+DEBUG:root:Minimum expected number of vehicles: 144
+DEBUG:root:Simulation time 196
+DEBUG:root:Minimum expected number of vehicles: 143
+DEBUG:root:Simulation time 197
+DEBUG:root:Minimum expected number of vehicles: 141
+DEBUG:root:Simulation time 198
+DEBUG:root:Minimum expected number of vehicles: 141
+DEBUG:root:Simulation time 199
+DEBUG:root:Minimum expected number of vehicles: 140
+DEBUG:root:Simulation time 200
+DEBUG:root:Minimum expected number of vehicles: 140
+DEBUG:root:Simulation time 201
+DEBUG:root:Minimum expected number of vehicles: 140
+DEBUG:root:Simulation time 202
+DEBUG:root:Minimum expected number of vehicles: 340
+DEBUG:root:Simulation time 203
+DEBUG:root:Minimum expected number of vehicles: 339
+DEBUG:root:Simulation time 204
+DEBUG:root:Minimum expected number of vehicles: 339
+DEBUG:root:Simulation time 205
+DEBUG:root:Minimum expected number of vehicles: 338
+DEBUG:root:Simulation time 206
+DEBUG:root:Minimum expected number of vehicles: 337
+DEBUG:root:Simulation time 207
+DEBUG:root:Minimum expected number of vehicles: 337
+DEBUG:root:Simulation time 208
+DEBUG:root:Minimum expected number of vehicles: 337
+DEBUG:root:Simulation time 209
+DEBUG:root:Minimum expected number of vehicles: 336
+DEBUG:root:Simulation time 210
+DEBUG:root:Minimum expected number of vehicles: 335
+DEBUG:root:Simulation time 211
+DEBUG:root:Minimum expected number of vehicles: 334
+DEBUG:root:Simulation time 212
+DEBUG:root:Minimum expected number of vehicles: 334
+DEBUG:root:Simulation time 213
+DEBUG:root:Minimum expected number of vehicles: 332
+DEBUG:root:Simulation time 214
+DEBUG:root:Minimum expected number of vehicles: 331
+DEBUG:root:Simulation time 215
+DEBUG:root:Minimum expected number of vehicles: 331
+DEBUG:root:Simulation time 216
+DEBUG:root:Minimum expected number of vehicles: 329
+DEBUG:root:Simulation time 217
+DEBUG:root:Minimum expected number of vehicles: 329
+DEBUG:root:Simulation time 218
+DEBUG:root:Minimum expected number of vehicles: 329
+DEBUG:root:Simulation time 219
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 220
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 221
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 222
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 223
+DEBUG:root:Minimum expected number of vehicles: 327
+DEBUG:root:Simulation time 224
+DEBUG:root:Minimum expected number of vehicles: 327
+DEBUG:root:Simulation time 225
+DEBUG:root:Minimum expected number of vehicles: 327
+DEBUG:root:Simulation time 226
+DEBUG:root:Minimum expected number of vehicles: 327
+DEBUG:root:Simulation time 227
+DEBUG:root:Minimum expected number of vehicles: 327
+DEBUG:root:Simulation time 228
+DEBUG:root:Minimum expected number of vehicles: 325
+DEBUG:root:Simulation time 229
+DEBUG:root:Minimum expected number of vehicles: 325
+DEBUG:root:Simulation time 230
+DEBUG:root:Minimum expected number of vehicles: 324
+DEBUG:root:Simulation time 231
+DEBUG:root:Minimum expected number of vehicles: 323
+DEBUG:root:Simulation time 232
+DEBUG:root:Minimum expected number of vehicles: 323
+DEBUG:root:Simulation time 233
+DEBUG:root:Minimum expected number of vehicles: 321
+DEBUG:root:Simulation time 234
+DEBUG:root:Minimum expected number of vehicles: 321
+DEBUG:root:Simulation time 235
+DEBUG:root:Minimum expected number of vehicles: 319
+DEBUG:root:Simulation time 236
+DEBUG:root:Minimum expected number of vehicles: 317
+DEBUG:root:Simulation time 237
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 238
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 239
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 240
+DEBUG:root:Updating travel time on roads at simulation time 240
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 241
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 242
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 243
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 244
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 245
+DEBUG:root:Minimum expected number of vehicles: 315
+DEBUG:root:Simulation time 246
+DEBUG:root:Minimum expected number of vehicles: 314
+DEBUG:root:Simulation time 247
+DEBUG:root:Minimum expected number of vehicles: 313
+DEBUG:root:Simulation time 248
+DEBUG:root:Minimum expected number of vehicles: 313
+DEBUG:root:Simulation time 249
+DEBUG:root:Minimum expected number of vehicles: 313
+DEBUG:root:Simulation time 250
+DEBUG:root:Minimum expected number of vehicles: 313
+DEBUG:root:Simulation time 251
+DEBUG:root:Minimum expected number of vehicles: 313
+DEBUG:root:Simulation time 252
+DEBUG:root:Minimum expected number of vehicles: 310
+DEBUG:root:Simulation time 253
+DEBUG:root:Minimum expected number of vehicles: 309
+DEBUG:root:Simulation time 254
+DEBUG:root:Minimum expected number of vehicles: 307
+DEBUG:root:Simulation time 255
+DEBUG:root:Minimum expected number of vehicles: 305
+DEBUG:root:Simulation time 256
+DEBUG:root:Minimum expected number of vehicles: 305
+DEBUG:root:Simulation time 257
+DEBUG:root:Minimum expected number of vehicles: 303
+DEBUG:root:Simulation time 258
+DEBUG:root:Minimum expected number of vehicles: 302
+DEBUG:root:Simulation time 259
+DEBUG:root:Minimum expected number of vehicles: 300
+DEBUG:root:Simulation time 260
+DEBUG:root:Minimum expected number of vehicles: 299
+DEBUG:root:Simulation time 261
+DEBUG:root:Minimum expected number of vehicles: 298
+DEBUG:root:Simulation time 262
+DEBUG:root:Minimum expected number of vehicles: 296
+DEBUG:root:Simulation time 263
+DEBUG:root:Minimum expected number of vehicles: 295
+DEBUG:root:Simulation time 264
+DEBUG:root:Minimum expected number of vehicles: 295
+DEBUG:root:Simulation time 265
+DEBUG:root:Minimum expected number of vehicles: 293
+DEBUG:root:Simulation time 266
+DEBUG:root:Minimum expected number of vehicles: 293
+DEBUG:root:Simulation time 267
+DEBUG:root:Minimum expected number of vehicles: 292
+DEBUG:root:Simulation time 268
+DEBUG:root:Minimum expected number of vehicles: 291
+DEBUG:root:Simulation time 269
+DEBUG:root:Minimum expected number of vehicles: 291
+DEBUG:root:Simulation time 270
+DEBUG:root:Minimum expected number of vehicles: 291
+DEBUG:root:Simulation time 271
+DEBUG:root:Minimum expected number of vehicles: 288
+DEBUG:root:Simulation time 272
+DEBUG:root:Minimum expected number of vehicles: 288
+DEBUG:root:Simulation time 273
+DEBUG:root:Minimum expected number of vehicles: 287
+DEBUG:root:Simulation time 274
+DEBUG:root:Minimum expected number of vehicles: 286
+DEBUG:root:Simulation time 275
+DEBUG:root:Minimum expected number of vehicles: 286
+DEBUG:root:Simulation time 276
+DEBUG:root:Minimum expected number of vehicles: 286
+DEBUG:root:Simulation time 277
+DEBUG:root:Minimum expected number of vehicles: 286
+DEBUG:root:Simulation time 278
+DEBUG:root:Minimum expected number of vehicles: 285
+DEBUG:root:Simulation time 279
+DEBUG:root:Minimum expected number of vehicles: 284
+DEBUG:root:Simulation time 280
+DEBUG:root:Minimum expected number of vehicles: 283
+DEBUG:root:Simulation time 281
+DEBUG:root:Minimum expected number of vehicles: 282
+DEBUG:root:Simulation time 282
+DEBUG:root:Minimum expected number of vehicles: 280
+DEBUG:root:Simulation time 283
+DEBUG:root:Minimum expected number of vehicles: 280
+DEBUG:root:Simulation time 284
+DEBUG:root:Minimum expected number of vehicles: 278
+DEBUG:root:Simulation time 285
+DEBUG:root:Minimum expected number of vehicles: 278
+DEBUG:root:Simulation time 286
+DEBUG:root:Minimum expected number of vehicles: 277
+DEBUG:root:Simulation time 287
+DEBUG:root:Minimum expected number of vehicles: 277
+DEBUG:root:Simulation time 288
+DEBUG:root:Minimum expected number of vehicles: 276
+DEBUG:root:Simulation time 289
+DEBUG:root:Minimum expected number of vehicles: 275
+DEBUG:root:Simulation time 290
+DEBUG:root:Minimum expected number of vehicles: 274
+DEBUG:root:Simulation time 291
+DEBUG:root:Minimum expected number of vehicles: 273
+DEBUG:root:Simulation time 292
+DEBUG:root:Minimum expected number of vehicles: 273
+DEBUG:root:Simulation time 293
+DEBUG:root:Minimum expected number of vehicles: 272
+DEBUG:root:Simulation time 294
+DEBUG:root:Minimum expected number of vehicles: 270
+DEBUG:root:Simulation time 295
+DEBUG:root:Minimum expected number of vehicles: 267
+DEBUG:root:Simulation time 296
+DEBUG:root:Minimum expected number of vehicles: 266
+DEBUG:root:Simulation time 297
+DEBUG:root:Minimum expected number of vehicles: 266
+DEBUG:root:Simulation time 298
+DEBUG:root:Minimum expected number of vehicles: 265
+DEBUG:root:Simulation time 299
+DEBUG:root:Minimum expected number of vehicles: 264
+DEBUG:root:Simulation time 300
+DEBUG:root:Updating travel time on roads at simulation time 300
+DEBUG:root:Minimum expected number of vehicles: 262
+DEBUG:root:Simulation time 301
+DEBUG:root:Minimum expected number of vehicles: 260
+DEBUG:root:Simulation time 302
+DEBUG:root:Minimum expected number of vehicles: 260
+DEBUG:root:Simulation time 303
+DEBUG:root:Minimum expected number of vehicles: 257
+DEBUG:root:Simulation time 304
+DEBUG:root:Minimum expected number of vehicles: 256
+DEBUG:root:Simulation time 305
+DEBUG:root:Minimum expected number of vehicles: 254
+DEBUG:root:Simulation time 306
+DEBUG:root:Minimum expected number of vehicles: 254
+DEBUG:root:Simulation time 307
+DEBUG:root:Minimum expected number of vehicles: 253
+DEBUG:root:Simulation time 308
+DEBUG:root:Minimum expected number of vehicles: 252
+DEBUG:root:Simulation time 309
+DEBUG:root:Minimum expected number of vehicles: 251
+DEBUG:root:Simulation time 310
+DEBUG:root:Minimum expected number of vehicles: 250
+DEBUG:root:Simulation time 311
+DEBUG:root:Minimum expected number of vehicles: 248
+DEBUG:root:Simulation time 312
+DEBUG:root:Minimum expected number of vehicles: 247
+DEBUG:root:Simulation time 313
+DEBUG:root:Minimum expected number of vehicles: 247
+DEBUG:root:Simulation time 314
+DEBUG:root:Minimum expected number of vehicles: 247
+DEBUG:root:Simulation time 315
+DEBUG:root:Minimum expected number of vehicles: 246
+DEBUG:root:Simulation time 316
+DEBUG:root:Minimum expected number of vehicles: 245
+DEBUG:root:Simulation time 317
+DEBUG:root:Minimum expected number of vehicles: 245
+DEBUG:root:Simulation time 318
+DEBUG:root:Minimum expected number of vehicles: 243
+DEBUG:root:Simulation time 319
+DEBUG:root:Minimum expected number of vehicles: 242
+DEBUG:root:Simulation time 320
+DEBUG:root:Minimum expected number of vehicles: 242
+DEBUG:root:Simulation time 321
+DEBUG:root:Minimum expected number of vehicles: 241
+DEBUG:root:Simulation time 322
+DEBUG:root:Minimum expected number of vehicles: 241
+DEBUG:root:Simulation time 323
+DEBUG:root:Minimum expected number of vehicles: 240
+DEBUG:root:Simulation time 324
+DEBUG:root:Minimum expected number of vehicles: 239
+DEBUG:root:Simulation time 325
+DEBUG:root:Minimum expected number of vehicles: 237
+DEBUG:root:Simulation time 326
+DEBUG:root:Minimum expected number of vehicles: 237
+DEBUG:root:Simulation time 327
+DEBUG:root:Minimum expected number of vehicles: 236
+DEBUG:root:Simulation time 328
+DEBUG:root:Minimum expected number of vehicles: 235
+DEBUG:root:Simulation time 329
+DEBUG:root:Minimum expected number of vehicles: 234
+DEBUG:root:Simulation time 330
+DEBUG:root:Minimum expected number of vehicles: 232
+DEBUG:root:Simulation time 331
+DEBUG:root:Minimum expected number of vehicles: 229
+DEBUG:root:Simulation time 332
+DEBUG:root:Minimum expected number of vehicles: 226
+DEBUG:root:Simulation time 333
+DEBUG:root:Minimum expected number of vehicles: 225
+DEBUG:root:Simulation time 334
+DEBUG:root:Minimum expected number of vehicles: 225
+DEBUG:root:Simulation time 335
+DEBUG:root:Minimum expected number of vehicles: 224
+DEBUG:root:Simulation time 336
+DEBUG:root:Minimum expected number of vehicles: 223
+DEBUG:root:Simulation time 337
+DEBUG:root:Minimum expected number of vehicles: 222
+DEBUG:root:Simulation time 338
+DEBUG:root:Minimum expected number of vehicles: 222
+DEBUG:root:Simulation time 339
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 340
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 341
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 342
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 343
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 344
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 345
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 346
+DEBUG:root:Minimum expected number of vehicles: 218
+DEBUG:root:Simulation time 347
+DEBUG:root:Minimum expected number of vehicles: 216
+DEBUG:root:Simulation time 348
+DEBUG:root:Minimum expected number of vehicles: 216
+DEBUG:root:Simulation time 349
+DEBUG:root:Minimum expected number of vehicles: 215
+DEBUG:root:Simulation time 350
+DEBUG:root:Minimum expected number of vehicles: 215
+DEBUG:root:Simulation time 351
+DEBUG:root:Minimum expected number of vehicles: 215
+DEBUG:root:Simulation time 352
+DEBUG:root:Minimum expected number of vehicles: 215
+DEBUG:root:Simulation time 353
+DEBUG:root:Minimum expected number of vehicles: 214
+DEBUG:root:Simulation time 354
+DEBUG:root:Minimum expected number of vehicles: 212
+DEBUG:root:Simulation time 355
+DEBUG:root:Minimum expected number of vehicles: 211
+DEBUG:root:Simulation time 356
+DEBUG:root:Minimum expected number of vehicles: 210
+DEBUG:root:Simulation time 357
+DEBUG:root:Minimum expected number of vehicles: 208
+DEBUG:root:Simulation time 358
+DEBUG:root:Minimum expected number of vehicles: 207
+DEBUG:root:Simulation time 359
+DEBUG:root:Minimum expected number of vehicles: 207
+DEBUG:root:Simulation time 360
+DEBUG:root:Updating travel time on roads at simulation time 360
+DEBUG:root:Minimum expected number of vehicles: 206
+DEBUG:root:Simulation time 361
+DEBUG:root:Minimum expected number of vehicles: 205
+DEBUG:root:Simulation time 362
+DEBUG:root:Minimum expected number of vehicles: 204
+DEBUG:root:Simulation time 363
+DEBUG:root:Minimum expected number of vehicles: 204
+DEBUG:root:Simulation time 364
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 365
+DEBUG:root:Minimum expected number of vehicles: 201
+DEBUG:root:Simulation time 366
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 367
+DEBUG:root:Minimum expected number of vehicles: 197
+DEBUG:root:Simulation time 368
+DEBUG:root:Minimum expected number of vehicles: 197
+DEBUG:root:Simulation time 369
+DEBUG:root:Minimum expected number of vehicles: 196
+DEBUG:root:Simulation time 370
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 371
+DEBUG:root:Minimum expected number of vehicles: 194
+DEBUG:root:Simulation time 372
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 373
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 374
+DEBUG:root:Minimum expected number of vehicles: 191
+DEBUG:root:Simulation time 375
+DEBUG:root:Minimum expected number of vehicles: 190
+DEBUG:root:Simulation time 376
+DEBUG:root:Minimum expected number of vehicles: 190
+DEBUG:root:Simulation time 377
+DEBUG:root:Minimum expected number of vehicles: 190
+DEBUG:root:Simulation time 378
+DEBUG:root:Minimum expected number of vehicles: 188
+DEBUG:root:Simulation time 379
+DEBUG:root:Minimum expected number of vehicles: 188
+DEBUG:root:Simulation time 380
+DEBUG:root:Minimum expected number of vehicles: 187
+DEBUG:root:Simulation time 381
+DEBUG:root:Minimum expected number of vehicles: 185
+DEBUG:root:Simulation time 382
+DEBUG:root:Minimum expected number of vehicles: 184
+DEBUG:root:Simulation time 383
+DEBUG:root:Minimum expected number of vehicles: 184
+DEBUG:root:Simulation time 384
+DEBUG:root:Minimum expected number of vehicles: 182
+DEBUG:root:Simulation time 385
+DEBUG:root:Minimum expected number of vehicles: 181
+DEBUG:root:Simulation time 386
+DEBUG:root:Minimum expected number of vehicles: 180
+DEBUG:root:Simulation time 387
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 388
+DEBUG:root:Minimum expected number of vehicles: 176
+DEBUG:root:Simulation time 389
+DEBUG:root:Minimum expected number of vehicles: 175
+DEBUG:root:Simulation time 390
+DEBUG:root:Minimum expected number of vehicles: 174
+DEBUG:root:Simulation time 391
+DEBUG:root:Minimum expected number of vehicles: 172
+DEBUG:root:Simulation time 392
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 393
+DEBUG:root:Minimum expected number of vehicles: 170
+DEBUG:root:Simulation time 394
+DEBUG:root:Minimum expected number of vehicles: 167
+DEBUG:root:Simulation time 395
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 396
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 397
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 398
+DEBUG:root:Minimum expected number of vehicles: 165
+DEBUG:root:Simulation time 399
+DEBUG:root:Minimum expected number of vehicles: 163
+DEBUG:root:Simulation time 400
+DEBUG:root:Minimum expected number of vehicles: 161
+DEBUG:root:Simulation time 401
+DEBUG:root:Minimum expected number of vehicles: 161
+DEBUG:root:Simulation time 402
+DEBUG:root:Minimum expected number of vehicles: 161
+DEBUG:root:Simulation time 403
+DEBUG:root:Minimum expected number of vehicles: 361
+DEBUG:root:Simulation time 404
+DEBUG:root:Minimum expected number of vehicles: 361
+DEBUG:root:Simulation time 405
+DEBUG:root:Minimum expected number of vehicles: 361
+DEBUG:root:Simulation time 406
+DEBUG:root:Minimum expected number of vehicles: 360
+DEBUG:root:Simulation time 407
+DEBUG:root:Minimum expected number of vehicles: 358
+DEBUG:root:Simulation time 408
+DEBUG:root:Minimum expected number of vehicles: 355
+DEBUG:root:Simulation time 409
+DEBUG:root:Minimum expected number of vehicles: 355
+DEBUG:root:Simulation time 410
+DEBUG:root:Minimum expected number of vehicles: 355
+DEBUG:root:Simulation time 411
+DEBUG:root:Minimum expected number of vehicles: 355
+DEBUG:root:Simulation time 412
+DEBUG:root:Minimum expected number of vehicles: 354
+DEBUG:root:Simulation time 413
+DEBUG:root:Minimum expected number of vehicles: 353
+DEBUG:root:Simulation time 414
+DEBUG:root:Minimum expected number of vehicles: 353
+DEBUG:root:Simulation time 415
+DEBUG:root:Minimum expected number of vehicles: 352
+DEBUG:root:Simulation time 416
+DEBUG:root:Minimum expected number of vehicles: 352
+DEBUG:root:Simulation time 417
+DEBUG:root:Minimum expected number of vehicles: 352
+DEBUG:root:Simulation time 418
+DEBUG:root:Minimum expected number of vehicles: 352
+DEBUG:root:Simulation time 419
+DEBUG:root:Minimum expected number of vehicles: 350
+DEBUG:root:Simulation time 420
+DEBUG:root:Updating travel time on roads at simulation time 420
+DEBUG:root:Minimum expected number of vehicles: 350
+DEBUG:root:Simulation time 421
+DEBUG:root:Minimum expected number of vehicles: 348
+DEBUG:root:Simulation time 422
+DEBUG:root:Minimum expected number of vehicles: 347
+DEBUG:root:Simulation time 423
+DEBUG:root:Minimum expected number of vehicles: 347
+DEBUG:root:Simulation time 424
+DEBUG:root:Minimum expected number of vehicles: 345
+DEBUG:root:Simulation time 425
+DEBUG:root:Minimum expected number of vehicles: 345
+DEBUG:root:Simulation time 426
+DEBUG:root:Minimum expected number of vehicles: 343
+DEBUG:root:Simulation time 427
+DEBUG:root:Minimum expected number of vehicles: 341
+DEBUG:root:Simulation time 428
+DEBUG:root:Minimum expected number of vehicles: 341
+DEBUG:root:Simulation time 429
+DEBUG:root:Minimum expected number of vehicles: 340
+DEBUG:root:Simulation time 430
+DEBUG:root:Minimum expected number of vehicles: 340
+DEBUG:root:Simulation time 431
+DEBUG:root:Minimum expected number of vehicles: 339
+DEBUG:root:Simulation time 432
+DEBUG:root:Minimum expected number of vehicles: 339
+DEBUG:root:Simulation time 433
+DEBUG:root:Minimum expected number of vehicles: 339
+DEBUG:root:Simulation time 434
+DEBUG:root:Minimum expected number of vehicles: 336
+DEBUG:root:Simulation time 435
+DEBUG:root:Minimum expected number of vehicles: 333
+DEBUG:root:Simulation time 436
+DEBUG:root:Minimum expected number of vehicles: 331
+DEBUG:root:Simulation time 437
+DEBUG:root:Minimum expected number of vehicles: 331
+DEBUG:root:Simulation time 438
+DEBUG:root:Minimum expected number of vehicles: 329
+DEBUG:root:Simulation time 439
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 440
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 441
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 442
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 443
+DEBUG:root:Minimum expected number of vehicles: 325
+DEBUG:root:Simulation time 444
+DEBUG:root:Minimum expected number of vehicles: 325
+DEBUG:root:Simulation time 445
+DEBUG:root:Minimum expected number of vehicles: 322
+DEBUG:root:Simulation time 446
+DEBUG:root:Minimum expected number of vehicles: 322
+DEBUG:root:Simulation time 447
+DEBUG:root:Minimum expected number of vehicles: 320
+DEBUG:root:Simulation time 448
+DEBUG:root:Minimum expected number of vehicles: 320
+DEBUG:root:Simulation time 449
+DEBUG:root:Minimum expected number of vehicles: 320
+DEBUG:root:Simulation time 450
+DEBUG:root:Minimum expected number of vehicles: 320
+DEBUG:root:Simulation time 451
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 452
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 453
+DEBUG:root:Minimum expected number of vehicles: 315
+DEBUG:root:Simulation time 454
+DEBUG:root:Minimum expected number of vehicles: 311
+DEBUG:root:Simulation time 455
+DEBUG:root:Minimum expected number of vehicles: 309
+DEBUG:root:Simulation time 456
+DEBUG:root:Minimum expected number of vehicles: 308
+DEBUG:root:Simulation time 457
+DEBUG:root:Minimum expected number of vehicles: 307
+DEBUG:root:Simulation time 458
+DEBUG:root:Minimum expected number of vehicles: 305
+DEBUG:root:Simulation time 459
+DEBUG:root:Minimum expected number of vehicles: 304
+DEBUG:root:Simulation time 460
+DEBUG:root:Minimum expected number of vehicles: 302
+DEBUG:root:Simulation time 461
+DEBUG:root:Minimum expected number of vehicles: 301
+DEBUG:root:Simulation time 462
+DEBUG:root:Minimum expected number of vehicles: 295
+DEBUG:root:Simulation time 463
+DEBUG:root:Minimum expected number of vehicles: 295
+DEBUG:root:Simulation time 464
+DEBUG:root:Minimum expected number of vehicles: 294
+DEBUG:root:Simulation time 465
+DEBUG:root:Minimum expected number of vehicles: 292
+DEBUG:root:Simulation time 466
+DEBUG:root:Minimum expected number of vehicles: 289
+DEBUG:root:Simulation time 467
+DEBUG:root:Minimum expected number of vehicles: 289
+DEBUG:root:Simulation time 468
+DEBUG:root:Minimum expected number of vehicles: 288
+DEBUG:root:Simulation time 469
+DEBUG:root:Minimum expected number of vehicles: 287
+DEBUG:root:Simulation time 470
+DEBUG:root:Minimum expected number of vehicles: 285
+DEBUG:root:Simulation time 471
+DEBUG:root:Minimum expected number of vehicles: 285
+DEBUG:root:Simulation time 472
+DEBUG:root:Minimum expected number of vehicles: 285
+DEBUG:root:Simulation time 473
+DEBUG:root:Minimum expected number of vehicles: 283
+DEBUG:root:Simulation time 474
+DEBUG:root:Minimum expected number of vehicles: 281
+DEBUG:root:Simulation time 475
+DEBUG:root:Minimum expected number of vehicles: 280
+DEBUG:root:Simulation time 476
+DEBUG:root:Minimum expected number of vehicles: 280
+DEBUG:root:Simulation time 477
+DEBUG:root:Minimum expected number of vehicles: 280
+DEBUG:root:Simulation time 478
+DEBUG:root:Minimum expected number of vehicles: 278
+DEBUG:root:Simulation time 479
+DEBUG:root:Minimum expected number of vehicles: 278
+DEBUG:root:Simulation time 480
+DEBUG:root:Updating travel time on roads at simulation time 480
+DEBUG:root:Minimum expected number of vehicles: 276
+DEBUG:root:Simulation time 481
+DEBUG:root:Minimum expected number of vehicles: 275
+DEBUG:root:Simulation time 482
+DEBUG:root:Minimum expected number of vehicles: 273
+DEBUG:root:Simulation time 483
+DEBUG:root:Minimum expected number of vehicles: 273
+DEBUG:root:Simulation time 484
+DEBUG:root:Minimum expected number of vehicles: 271
+DEBUG:root:Simulation time 485
+DEBUG:root:Minimum expected number of vehicles: 271
+DEBUG:root:Simulation time 486
+DEBUG:root:Minimum expected number of vehicles: 270
+DEBUG:root:Simulation time 487
+DEBUG:root:Minimum expected number of vehicles: 270
+DEBUG:root:Simulation time 488
+DEBUG:root:Minimum expected number of vehicles: 270
+DEBUG:root:Simulation time 489
+DEBUG:root:Minimum expected number of vehicles: 270
+DEBUG:root:Simulation time 490
+DEBUG:root:Minimum expected number of vehicles: 270
+DEBUG:root:Simulation time 491
+DEBUG:root:Minimum expected number of vehicles: 270
+DEBUG:root:Simulation time 492
+DEBUG:root:Minimum expected number of vehicles: 270
+DEBUG:root:Simulation time 493
+DEBUG:root:Minimum expected number of vehicles: 270
+DEBUG:root:Simulation time 494
+DEBUG:root:Minimum expected number of vehicles: 269
+DEBUG:root:Simulation time 495
+DEBUG:root:Minimum expected number of vehicles: 268
+DEBUG:root:Simulation time 496
+DEBUG:root:Minimum expected number of vehicles: 268
+DEBUG:root:Simulation time 497
+DEBUG:root:Minimum expected number of vehicles: 267
+DEBUG:root:Simulation time 498
+DEBUG:root:Minimum expected number of vehicles: 266
+DEBUG:root:Simulation time 499
+DEBUG:root:Minimum expected number of vehicles: 265
+DEBUG:root:Simulation time 500
+DEBUG:root:Minimum expected number of vehicles: 265
+DEBUG:root:Simulation time 501
+DEBUG:root:Minimum expected number of vehicles: 264
+DEBUG:root:Simulation time 502
+DEBUG:root:Minimum expected number of vehicles: 263
+DEBUG:root:Simulation time 503
+DEBUG:root:Minimum expected number of vehicles: 262
+DEBUG:root:Simulation time 504
+DEBUG:root:Minimum expected number of vehicles: 261
+DEBUG:root:Simulation time 505
+DEBUG:root:Minimum expected number of vehicles: 258
+DEBUG:root:Simulation time 506
+DEBUG:root:Minimum expected number of vehicles: 258
+DEBUG:root:Simulation time 507
+DEBUG:root:Minimum expected number of vehicles: 257
+DEBUG:root:Simulation time 508
+DEBUG:root:Minimum expected number of vehicles: 256
+DEBUG:root:Simulation time 509
+DEBUG:root:Minimum expected number of vehicles: 255
+DEBUG:root:Simulation time 510
+DEBUG:root:Minimum expected number of vehicles: 251
+DEBUG:root:Simulation time 511
+DEBUG:root:Minimum expected number of vehicles: 249
+DEBUG:root:Simulation time 512
+DEBUG:root:Minimum expected number of vehicles: 248
+DEBUG:root:Simulation time 513
+DEBUG:root:Minimum expected number of vehicles: 248
+DEBUG:root:Simulation time 514
+DEBUG:root:Minimum expected number of vehicles: 247
+DEBUG:root:Simulation time 515
+DEBUG:root:Minimum expected number of vehicles: 245
+DEBUG:root:Simulation time 516
+DEBUG:root:Minimum expected number of vehicles: 245
+DEBUG:root:Simulation time 517
+DEBUG:root:Minimum expected number of vehicles: 244
+DEBUG:root:Simulation time 518
+DEBUG:root:Minimum expected number of vehicles: 244
+DEBUG:root:Simulation time 519
+DEBUG:root:Minimum expected number of vehicles: 241
+DEBUG:root:Simulation time 520
+DEBUG:root:Minimum expected number of vehicles: 240
+DEBUG:root:Simulation time 521
+DEBUG:root:Minimum expected number of vehicles: 239
+DEBUG:root:Simulation time 522
+DEBUG:root:Minimum expected number of vehicles: 239
+DEBUG:root:Simulation time 523
+DEBUG:root:Minimum expected number of vehicles: 238
+DEBUG:root:Simulation time 524
+DEBUG:root:Minimum expected number of vehicles: 236
+DEBUG:root:Simulation time 525
+DEBUG:root:Minimum expected number of vehicles: 234
+DEBUG:root:Simulation time 526
+DEBUG:root:Minimum expected number of vehicles: 233
+DEBUG:root:Simulation time 527
+DEBUG:root:Minimum expected number of vehicles: 233
+DEBUG:root:Simulation time 528
+DEBUG:root:Minimum expected number of vehicles: 233
+DEBUG:root:Simulation time 529
+DEBUG:root:Minimum expected number of vehicles: 230
+DEBUG:root:Simulation time 530
+DEBUG:root:Minimum expected number of vehicles: 230
+DEBUG:root:Simulation time 531
+DEBUG:root:Minimum expected number of vehicles: 228
+DEBUG:root:Simulation time 532
+DEBUG:root:Minimum expected number of vehicles: 227
+DEBUG:root:Simulation time 533
+DEBUG:root:Minimum expected number of vehicles: 227
+DEBUG:root:Simulation time 534
+DEBUG:root:Minimum expected number of vehicles: 225
+DEBUG:root:Simulation time 535
+DEBUG:root:Minimum expected number of vehicles: 224
+DEBUG:root:Simulation time 536
+DEBUG:root:Minimum expected number of vehicles: 224
+DEBUG:root:Simulation time 537
+DEBUG:root:Minimum expected number of vehicles: 224
+DEBUG:root:Simulation time 538
+DEBUG:root:Minimum expected number of vehicles: 224
+DEBUG:root:Simulation time 539
+DEBUG:root:Minimum expected number of vehicles: 223
+DEBUG:root:Simulation time 540
+DEBUG:root:Updating travel time on roads at simulation time 540
+DEBUG:root:Minimum expected number of vehicles: 223
+DEBUG:root:Simulation time 541
+DEBUG:root:Minimum expected number of vehicles: 222
+DEBUG:root:Simulation time 542
+DEBUG:root:Minimum expected number of vehicles: 222
+DEBUG:root:Simulation time 543
+DEBUG:root:Minimum expected number of vehicles: 222
+DEBUG:root:Simulation time 544
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 545
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 546
+DEBUG:root:Minimum expected number of vehicles: 219
+DEBUG:root:Simulation time 547
+DEBUG:root:Minimum expected number of vehicles: 219
+DEBUG:root:Simulation time 548
+DEBUG:root:Minimum expected number of vehicles: 218
+DEBUG:root:Simulation time 549
+DEBUG:root:Minimum expected number of vehicles: 216
+DEBUG:root:Simulation time 550
+DEBUG:root:Minimum expected number of vehicles: 214
+DEBUG:root:Simulation time 551
+DEBUG:root:Minimum expected number of vehicles: 214
+DEBUG:root:Simulation time 552
+DEBUG:root:Minimum expected number of vehicles: 214
+DEBUG:root:Simulation time 553
+DEBUG:root:Minimum expected number of vehicles: 214
+DEBUG:root:Simulation time 554
+DEBUG:root:Minimum expected number of vehicles: 212
+DEBUG:root:Simulation time 555
+DEBUG:root:Minimum expected number of vehicles: 210
+DEBUG:root:Simulation time 556
+DEBUG:root:Minimum expected number of vehicles: 209
+DEBUG:root:Simulation time 557
+DEBUG:root:Minimum expected number of vehicles: 207
+DEBUG:root:Simulation time 558
+DEBUG:root:Minimum expected number of vehicles: 204
+DEBUG:root:Simulation time 559
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 560
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 561
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 562
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 563
+DEBUG:root:Minimum expected number of vehicles: 198
+DEBUG:root:Simulation time 564
+DEBUG:root:Minimum expected number of vehicles: 198
+DEBUG:root:Simulation time 565
+DEBUG:root:Minimum expected number of vehicles: 197
+DEBUG:root:Simulation time 566
+DEBUG:root:Minimum expected number of vehicles: 197
+DEBUG:root:Simulation time 567
+DEBUG:root:Minimum expected number of vehicles: 196
+DEBUG:root:Simulation time 568
+DEBUG:root:Minimum expected number of vehicles: 196
+DEBUG:root:Simulation time 569
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 570
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 571
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 572
+DEBUG:root:Minimum expected number of vehicles: 192
+DEBUG:root:Simulation time 573
+DEBUG:root:Minimum expected number of vehicles: 191
+DEBUG:root:Simulation time 574
+DEBUG:root:Minimum expected number of vehicles: 189
+DEBUG:root:Simulation time 575
+DEBUG:root:Minimum expected number of vehicles: 188
+DEBUG:root:Simulation time 576
+DEBUG:root:Minimum expected number of vehicles: 186
+DEBUG:root:Simulation time 577
+DEBUG:root:Minimum expected number of vehicles: 186
+DEBUG:root:Simulation time 578
+DEBUG:root:Minimum expected number of vehicles: 183
+DEBUG:root:Simulation time 579
+DEBUG:root:Minimum expected number of vehicles: 183
+DEBUG:root:Simulation time 580
+DEBUG:root:Minimum expected number of vehicles: 183
+DEBUG:root:Simulation time 581
+DEBUG:root:Minimum expected number of vehicles: 181
+DEBUG:root:Simulation time 582
+DEBUG:root:Minimum expected number of vehicles: 180
+DEBUG:root:Simulation time 583
+DEBUG:root:Minimum expected number of vehicles: 179
+DEBUG:root:Simulation time 584
+DEBUG:root:Minimum expected number of vehicles: 179
+DEBUG:root:Simulation time 585
+DEBUG:root:Minimum expected number of vehicles: 175
+DEBUG:root:Simulation time 586
+DEBUG:root:Minimum expected number of vehicles: 175
+DEBUG:root:Simulation time 587
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 588
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 589
+DEBUG:root:Minimum expected number of vehicles: 170
+DEBUG:root:Simulation time 590
+DEBUG:root:Minimum expected number of vehicles: 170
+DEBUG:root:Simulation time 591
+DEBUG:root:Minimum expected number of vehicles: 167
+DEBUG:root:Simulation time 592
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 593
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 594
+DEBUG:root:Minimum expected number of vehicles: 165
+DEBUG:root:Simulation time 595
+DEBUG:root:Minimum expected number of vehicles: 162
+DEBUG:root:Simulation time 596
+DEBUG:root:Minimum expected number of vehicles: 161
+DEBUG:root:Simulation time 597
+DEBUG:root:Minimum expected number of vehicles: 160
+DEBUG:root:Simulation time 598
+DEBUG:root:Minimum expected number of vehicles: 160
+DEBUG:root:Simulation time 599
+DEBUG:root:Minimum expected number of vehicles: 159
+DEBUG:root:Simulation time 600
+DEBUG:root:Updating travel time on roads at simulation time 600
+ERROR:root:Terminating SUMO
+Traceback (most recent call last):
+  File "generic_its.py", line 101, in start_simulation
+    run(network, begin, end, interval, route_log, replication, float(radius))
+  File "generic_its.py", line 70, in run
+    road_network_graph = traffic_mannager.update_traffic_on_roads(road_network_graph)
+  File "/Users/AllanMSouza/Dropbox/PhD/TMS Implementation/Cloud-Fog/ITS Template/src/traffic_mannager.py", line 15, in update_traffic_on_roads
+    max_speed = traci.lane.getMaxSpeed(str(road) + "_0")
+  File "/Users/AllanMSouza/PhD/Environment/sumo-0.24.0/tools/traci/lane.py", line 117, in getMaxSpeed
+    return _getUniversal(tc.VAR_MAXSPEED, laneID)
+  File "/Users/AllanMSouza/PhD/Environment/sumo-0.24.0/tools/traci/lane.py", line 84, in _getUniversal
+    tc.CMD_GET_LANE_VARIABLE, varID, laneID)
+  File "/Users/AllanMSouza/PhD/Environment/sumo-0.24.0/tools/traci/__init__.py", line 330, in _sendReadOneStringCmd
+    return _checkResult(cmdID, varID, objID)
+  File "/Users/AllanMSouza/PhD/Environment/sumo-0.24.0/tools/traci/__init__.py", line 359, in _checkResult
+    result = _sendExact()
+  File "/Users/AllanMSouza/PhD/Environment/sumo-0.24.0/tools/traci/__init__.py", line 294, in _sendExact
+    result = _recvExact()
+  File "/Users/AllanMSouza/PhD/Environment/sumo-0.24.0/tools/traci/__init__.py", line 272, in _recvExact
+    t = _connections[""].recv(4 - len(result))
+KeyboardInterrupt
+DEBUG:root:Logging to ../log/traci_version.txt
+DEBUG:root:Finding unused port
+DEBUG:root:Port 60553 was found
+DEBUG:root:Starting SUMO as a server
+DEBUG:root:Building road graph
+DEBUG:root:Reading network file
+DEBUG:root:Reading RSU list
+DEBUG:root:Mapping edges within each RSU
+DEBUG:root:Running simulation now
+DEBUG:root:Minimum expected number of vehicles: 2
+DEBUG:root:Simulation time 0
+DEBUG:root:Updating travel time on roads at simulation time 0
+DEBUG:root:Minimum expected number of vehicles: 2
+DEBUG:root:Simulation time 1
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 2
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 3
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 4
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 5
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 6
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 7
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 8
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 9
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 10
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 11
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 12
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 13
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 14
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 15
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 16
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 17
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 18
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 19
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 20
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 21
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 22
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 23
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 24
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 25
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 26
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 27
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 28
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 29
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 30
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 31
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 32
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 33
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 34
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 35
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 36
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 37
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 38
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 39
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 40
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 41
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 42
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 43
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 44
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 45
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 46
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 47
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 48
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 49
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 50
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 51
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 52
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 53
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 54
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 55
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 56
+DEBUG:root:Minimum expected number of vehicles: 203
+DEBUG:root:Simulation time 57
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 58
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 59
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 60
+DEBUG:root:Updating travel time on roads at simulation time 60
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 61
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 62
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 63
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 64
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 65
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 66
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 67
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 68
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 69
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 70
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 71
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 72
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 73
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 74
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 75
+DEBUG:root:Minimum expected number of vehicles: 201
+DEBUG:root:Simulation time 76
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 77
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 78
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 79
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 80
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 81
+DEBUG:root:Minimum expected number of vehicles: 199
+DEBUG:root:Simulation time 82
+DEBUG:root:Minimum expected number of vehicles: 199
+DEBUG:root:Simulation time 83
+DEBUG:root:Minimum expected number of vehicles: 198
+DEBUG:root:Simulation time 84
+DEBUG:root:Minimum expected number of vehicles: 198
+DEBUG:root:Simulation time 85
+DEBUG:root:Minimum expected number of vehicles: 197
+DEBUG:root:Simulation time 86
+DEBUG:root:Minimum expected number of vehicles: 196
+DEBUG:root:Simulation time 87
+DEBUG:root:Minimum expected number of vehicles: 196
+DEBUG:root:Simulation time 88
+DEBUG:root:Minimum expected number of vehicles: 196
+DEBUG:root:Simulation time 89
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 90
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 91
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 92
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 93
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 94
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 95
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 96
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 97
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 98
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 99
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 100
+DEBUG:root:Minimum expected number of vehicles: 194
+DEBUG:root:Simulation time 101
+DEBUG:root:Minimum expected number of vehicles: 194
+DEBUG:root:Simulation time 102
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 103
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 104
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 105
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 106
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 107
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 108
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 109
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 110
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 111
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 112
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 113
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 114
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 115
+DEBUG:root:Minimum expected number of vehicles: 192
+DEBUG:root:Simulation time 116
+DEBUG:root:Minimum expected number of vehicles: 192
+DEBUG:root:Simulation time 117
+DEBUG:root:Minimum expected number of vehicles: 192
+DEBUG:root:Simulation time 118
+DEBUG:root:Minimum expected number of vehicles: 190
+DEBUG:root:Simulation time 119
+DEBUG:root:Minimum expected number of vehicles: 188
+DEBUG:root:Simulation time 120
+DEBUG:root:Updating travel time on roads at simulation time 120
+DEBUG:root:Minimum expected number of vehicles: 188
+DEBUG:root:Simulation time 121
+DEBUG:root:Minimum expected number of vehicles: 187
+DEBUG:root:Simulation time 122
+DEBUG:root:Minimum expected number of vehicles: 186
+DEBUG:root:Simulation time 123
+DEBUG:root:Minimum expected number of vehicles: 186
+DEBUG:root:Simulation time 124
+DEBUG:root:Minimum expected number of vehicles: 186
+DEBUG:root:Simulation time 125
+DEBUG:root:Minimum expected number of vehicles: 186
+DEBUG:root:Simulation time 126
+DEBUG:root:Minimum expected number of vehicles: 185
+DEBUG:root:Simulation time 127
+DEBUG:root:Minimum expected number of vehicles: 185
+DEBUG:root:Simulation time 128
+DEBUG:root:Minimum expected number of vehicles: 185
+DEBUG:root:Simulation time 129
+DEBUG:root:Minimum expected number of vehicles: 184
+DEBUG:root:Simulation time 130
+DEBUG:root:Minimum expected number of vehicles: 183
+DEBUG:root:Simulation time 131
+DEBUG:root:Minimum expected number of vehicles: 182
+DEBUG:root:Simulation time 132
+DEBUG:root:Minimum expected number of vehicles: 182
+DEBUG:root:Simulation time 133
+DEBUG:root:Minimum expected number of vehicles: 181
+DEBUG:root:Simulation time 134
+DEBUG:root:Minimum expected number of vehicles: 180
+DEBUG:root:Simulation time 135
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 136
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 137
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 138
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 139
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 140
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 141
+DEBUG:root:Minimum expected number of vehicles: 174
+DEBUG:root:Simulation time 142
+DEBUG:root:Minimum expected number of vehicles: 174
+DEBUG:root:Simulation time 143
+DEBUG:root:Minimum expected number of vehicles: 174
+DEBUG:root:Simulation time 144
+DEBUG:root:Minimum expected number of vehicles: 172
+DEBUG:root:Simulation time 145
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 146
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 147
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 148
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 149
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 150
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 151
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 152
+DEBUG:root:Minimum expected number of vehicles: 170
+DEBUG:root:Simulation time 153
+DEBUG:root:Minimum expected number of vehicles: 169
+DEBUG:root:Simulation time 154
+DEBUG:root:Minimum expected number of vehicles: 169
+DEBUG:root:Simulation time 155
+DEBUG:root:Minimum expected number of vehicles: 168
+DEBUG:root:Simulation time 156
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 157
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 158
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 159
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 160
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 161
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 162
+DEBUG:root:Minimum expected number of vehicles: 165
+DEBUG:root:Simulation time 163
+DEBUG:root:Minimum expected number of vehicles: 164
+DEBUG:root:Simulation time 164
+DEBUG:root:Minimum expected number of vehicles: 163
+DEBUG:root:Simulation time 165
+DEBUG:root:Minimum expected number of vehicles: 163
+DEBUG:root:Simulation time 166
+DEBUG:root:Minimum expected number of vehicles: 162
+DEBUG:root:Simulation time 167
+DEBUG:root:Minimum expected number of vehicles: 162
+DEBUG:root:Simulation time 168
+DEBUG:root:Minimum expected number of vehicles: 161
+DEBUG:root:Simulation time 169
+DEBUG:root:Minimum expected number of vehicles: 160
+DEBUG:root:Simulation time 170
+DEBUG:root:Minimum expected number of vehicles: 160
+DEBUG:root:Simulation time 171
+DEBUG:root:Minimum expected number of vehicles: 160
+DEBUG:root:Simulation time 172
+DEBUG:root:Minimum expected number of vehicles: 160
+DEBUG:root:Simulation time 173
+DEBUG:root:Minimum expected number of vehicles: 158
+DEBUG:root:Simulation time 174
+DEBUG:root:Minimum expected number of vehicles: 157
+DEBUG:root:Simulation time 175
+DEBUG:root:Minimum expected number of vehicles: 157
+DEBUG:root:Simulation time 176
+DEBUG:root:Minimum expected number of vehicles: 157
+DEBUG:root:Simulation time 177
+DEBUG:root:Minimum expected number of vehicles: 156
+DEBUG:root:Simulation time 178
+DEBUG:root:Minimum expected number of vehicles: 156
+DEBUG:root:Simulation time 179
+DEBUG:root:Minimum expected number of vehicles: 155
+DEBUG:root:Simulation time 180
+DEBUG:root:Updating travel time on roads at simulation time 180
+DEBUG:root:Minimum expected number of vehicles: 153
+DEBUG:root:Simulation time 181
+DEBUG:root:Minimum expected number of vehicles: 152
+DEBUG:root:Simulation time 182
+DEBUG:root:Minimum expected number of vehicles: 152
+DEBUG:root:Simulation time 183
+DEBUG:root:Minimum expected number of vehicles: 152
+DEBUG:root:Simulation time 184
+DEBUG:root:Minimum expected number of vehicles: 151
+DEBUG:root:Simulation time 185
+DEBUG:root:Minimum expected number of vehicles: 151
+DEBUG:root:Simulation time 186
+DEBUG:root:Minimum expected number of vehicles: 151
+DEBUG:root:Simulation time 187
+DEBUG:root:Minimum expected number of vehicles: 150
+DEBUG:root:Simulation time 188
+DEBUG:root:Minimum expected number of vehicles: 150
+DEBUG:root:Simulation time 189
+DEBUG:root:Minimum expected number of vehicles: 150
+DEBUG:root:Simulation time 190
+DEBUG:root:Minimum expected number of vehicles: 150
+DEBUG:root:Simulation time 191
+DEBUG:root:Minimum expected number of vehicles: 149
+DEBUG:root:Simulation time 192
+DEBUG:root:Minimum expected number of vehicles: 148
+DEBUG:root:Simulation time 193
+DEBUG:root:Minimum expected number of vehicles: 146
+DEBUG:root:Simulation time 194
+DEBUG:root:Minimum expected number of vehicles: 146
+DEBUG:root:Simulation time 195
+DEBUG:root:Minimum expected number of vehicles: 144
+DEBUG:root:Simulation time 196
+DEBUG:root:Minimum expected number of vehicles: 143
+DEBUG:root:Simulation time 197
+DEBUG:root:Minimum expected number of vehicles: 141
+DEBUG:root:Simulation time 198
+DEBUG:root:Minimum expected number of vehicles: 141
+DEBUG:root:Simulation time 199
+DEBUG:root:Minimum expected number of vehicles: 140
+DEBUG:root:Simulation time 200
+DEBUG:root:Minimum expected number of vehicles: 140
+DEBUG:root:Simulation time 201
+DEBUG:root:Minimum expected number of vehicles: 140
+DEBUG:root:Simulation time 202
+DEBUG:root:Minimum expected number of vehicles: 340
+DEBUG:root:Simulation time 203
+DEBUG:root:Minimum expected number of vehicles: 339
+DEBUG:root:Simulation time 204
+DEBUG:root:Minimum expected number of vehicles: 339
+DEBUG:root:Simulation time 205
+DEBUG:root:Minimum expected number of vehicles: 338
+DEBUG:root:Simulation time 206
+DEBUG:root:Minimum expected number of vehicles: 337
+DEBUG:root:Simulation time 207
+DEBUG:root:Minimum expected number of vehicles: 337
+DEBUG:root:Simulation time 208
+DEBUG:root:Minimum expected number of vehicles: 337
+DEBUG:root:Simulation time 209
+DEBUG:root:Minimum expected number of vehicles: 336
+DEBUG:root:Simulation time 210
+DEBUG:root:Minimum expected number of vehicles: 335
+DEBUG:root:Simulation time 211
+DEBUG:root:Minimum expected number of vehicles: 334
+DEBUG:root:Simulation time 212
+DEBUG:root:Minimum expected number of vehicles: 334
+DEBUG:root:Simulation time 213
+DEBUG:root:Minimum expected number of vehicles: 332
+DEBUG:root:Simulation time 214
+DEBUG:root:Minimum expected number of vehicles: 331
+DEBUG:root:Simulation time 215
+DEBUG:root:Minimum expected number of vehicles: 331
+DEBUG:root:Simulation time 216
+DEBUG:root:Minimum expected number of vehicles: 329
+DEBUG:root:Simulation time 217
+DEBUG:root:Minimum expected number of vehicles: 329
+DEBUG:root:Simulation time 218
+DEBUG:root:Minimum expected number of vehicles: 329
+DEBUG:root:Simulation time 219
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 220
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 221
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 222
+DEBUG:root:Minimum expected number of vehicles: 328
+DEBUG:root:Simulation time 223
+DEBUG:root:Minimum expected number of vehicles: 327
+DEBUG:root:Simulation time 224
+DEBUG:root:Minimum expected number of vehicles: 327
+DEBUG:root:Simulation time 225
+DEBUG:root:Minimum expected number of vehicles: 327
+DEBUG:root:Simulation time 226
+DEBUG:root:Minimum expected number of vehicles: 327
+DEBUG:root:Simulation time 227
+DEBUG:root:Minimum expected number of vehicles: 327
+DEBUG:root:Simulation time 228
+DEBUG:root:Minimum expected number of vehicles: 325
+DEBUG:root:Simulation time 229
+DEBUG:root:Minimum expected number of vehicles: 325
+DEBUG:root:Simulation time 230
+DEBUG:root:Minimum expected number of vehicles: 324
+DEBUG:root:Simulation time 231
+DEBUG:root:Minimum expected number of vehicles: 323
+DEBUG:root:Simulation time 232
+DEBUG:root:Minimum expected number of vehicles: 323
+DEBUG:root:Simulation time 233
+DEBUG:root:Minimum expected number of vehicles: 321
+DEBUG:root:Simulation time 234
+DEBUG:root:Minimum expected number of vehicles: 321
+DEBUG:root:Simulation time 235
+DEBUG:root:Minimum expected number of vehicles: 319
+DEBUG:root:Simulation time 236
+DEBUG:root:Minimum expected number of vehicles: 317
+DEBUG:root:Simulation time 237
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 238
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 239
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 240
+DEBUG:root:Updating travel time on roads at simulation time 240
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 241
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 242
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 243
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 244
+DEBUG:root:Minimum expected number of vehicles: 316
+DEBUG:root:Simulation time 245
+DEBUG:root:Minimum expected number of vehicles: 315
+DEBUG:root:Simulation time 246
+DEBUG:root:Minimum expected number of vehicles: 314
+DEBUG:root:Simulation time 247
+DEBUG:root:Minimum expected number of vehicles: 313
+DEBUG:root:Simulation time 248
+DEBUG:root:Minimum expected number of vehicles: 313
+DEBUG:root:Simulation time 249
+DEBUG:root:Minimum expected number of vehicles: 313
+DEBUG:root:Simulation time 250
+DEBUG:root:Minimum expected number of vehicles: 313
+DEBUG:root:Simulation time 251
+DEBUG:root:Minimum expected number of vehicles: 313
+DEBUG:root:Simulation time 252
+DEBUG:root:Minimum expected number of vehicles: 310
+DEBUG:root:Simulation time 253
+DEBUG:root:Minimum expected number of vehicles: 309
+DEBUG:root:Simulation time 254
+DEBUG:root:Minimum expected number of vehicles: 307
+DEBUG:root:Simulation time 255
+DEBUG:root:Minimum expected number of vehicles: 305
+DEBUG:root:Simulation time 256
+DEBUG:root:Minimum expected number of vehicles: 305
+DEBUG:root:Simulation time 257
+DEBUG:root:Minimum expected number of vehicles: 303
+DEBUG:root:Simulation time 258
+DEBUG:root:Minimum expected number of vehicles: 302
+DEBUG:root:Simulation time 259
+DEBUG:root:Minimum expected number of vehicles: 300
+DEBUG:root:Simulation time 260
+DEBUG:root:Minimum expected number of vehicles: 299
+DEBUG:root:Simulation time 261
+DEBUG:root:Minimum expected number of vehicles: 298
+DEBUG:root:Simulation time 262
+DEBUG:root:Minimum expected number of vehicles: 296
+DEBUG:root:Simulation time 263
+DEBUG:root:Minimum expected number of vehicles: 295
+DEBUG:root:Simulation time 264
+DEBUG:root:Minimum expected number of vehicles: 295
+DEBUG:root:Simulation time 265
+DEBUG:root:Minimum expected number of vehicles: 293
+DEBUG:root:Simulation time 266
+DEBUG:root:Minimum expected number of vehicles: 293
+DEBUG:root:Simulation time 267
+DEBUG:root:Minimum expected number of vehicles: 292
+DEBUG:root:Simulation time 268
+DEBUG:root:Minimum expected number of vehicles: 291
+DEBUG:root:Simulation time 269
+DEBUG:root:Minimum expected number of vehicles: 291
+DEBUG:root:Simulation time 270
+DEBUG:root:Minimum expected number of vehicles: 291
+DEBUG:root:Simulation time 271
+DEBUG:root:Minimum expected number of vehicles: 288
+DEBUG:root:Simulation time 272
+DEBUG:root:Minimum expected number of vehicles: 288
+DEBUG:root:Simulation time 273
+DEBUG:root:Minimum expected number of vehicles: 287
+DEBUG:root:Simulation time 274
+DEBUG:root:Minimum expected number of vehicles: 286
+DEBUG:root:Simulation time 275
+DEBUG:root:Minimum expected number of vehicles: 286
+DEBUG:root:Simulation time 276
+DEBUG:root:Minimum expected number of vehicles: 286
+DEBUG:root:Simulation time 277
+DEBUG:root:Minimum expected number of vehicles: 286
+DEBUG:root:Simulation time 278
+DEBUG:root:Minimum expected number of vehicles: 285
+DEBUG:root:Simulation time 279
+DEBUG:root:Minimum expected number of vehicles: 284
+DEBUG:root:Simulation time 280
+DEBUG:root:Minimum expected number of vehicles: 283
+DEBUG:root:Simulation time 281
+DEBUG:root:Minimum expected number of vehicles: 282
+DEBUG:root:Simulation time 282
+DEBUG:root:Minimum expected number of vehicles: 280
+DEBUG:root:Simulation time 283
+DEBUG:root:Minimum expected number of vehicles: 280
+DEBUG:root:Simulation time 284
+DEBUG:root:Minimum expected number of vehicles: 278
+DEBUG:root:Simulation time 285
+DEBUG:root:Minimum expected number of vehicles: 278
+DEBUG:root:Simulation time 286
+DEBUG:root:Minimum expected number of vehicles: 277
+DEBUG:root:Simulation time 287
+DEBUG:root:Minimum expected number of vehicles: 277
+DEBUG:root:Simulation time 288
+DEBUG:root:Minimum expected number of vehicles: 276
+DEBUG:root:Simulation time 289
+DEBUG:root:Minimum expected number of vehicles: 275
+DEBUG:root:Simulation time 290
+DEBUG:root:Minimum expected number of vehicles: 274
+DEBUG:root:Simulation time 291
+DEBUG:root:Minimum expected number of vehicles: 273
+DEBUG:root:Simulation time 292
+DEBUG:root:Minimum expected number of vehicles: 273
+DEBUG:root:Simulation time 293
+DEBUG:root:Minimum expected number of vehicles: 272
+DEBUG:root:Simulation time 294
+DEBUG:root:Minimum expected number of vehicles: 270
+DEBUG:root:Simulation time 295
+DEBUG:root:Minimum expected number of vehicles: 267
+DEBUG:root:Simulation time 296
+DEBUG:root:Minimum expected number of vehicles: 266
+DEBUG:root:Simulation time 297
+DEBUG:root:Minimum expected number of vehicles: 266
+DEBUG:root:Simulation time 298
+DEBUG:root:Minimum expected number of vehicles: 265
+DEBUG:root:Simulation time 299
+DEBUG:root:Minimum expected number of vehicles: 264
+DEBUG:root:Simulation time 300
+DEBUG:root:Updating travel time on roads at simulation time 300
+DEBUG:root:Minimum expected number of vehicles: 262
+DEBUG:root:Simulation time 301
+DEBUG:root:Minimum expected number of vehicles: 260
+DEBUG:root:Simulation time 302
+DEBUG:root:Minimum expected number of vehicles: 260
+DEBUG:root:Simulation time 303
+DEBUG:root:Minimum expected number of vehicles: 257
+DEBUG:root:Simulation time 304
+DEBUG:root:Minimum expected number of vehicles: 256
+DEBUG:root:Simulation time 305
+DEBUG:root:Minimum expected number of vehicles: 254
+DEBUG:root:Simulation time 306
+DEBUG:root:Minimum expected number of vehicles: 254
+DEBUG:root:Simulation time 307
+DEBUG:root:Minimum expected number of vehicles: 253
+DEBUG:root:Simulation time 308
+DEBUG:root:Minimum expected number of vehicles: 252
+DEBUG:root:Simulation time 309
+DEBUG:root:Minimum expected number of vehicles: 251
+DEBUG:root:Simulation time 310
+DEBUG:root:Minimum expected number of vehicles: 250
+DEBUG:root:Simulation time 311
+DEBUG:root:Minimum expected number of vehicles: 248
+DEBUG:root:Simulation time 312
+DEBUG:root:Minimum expected number of vehicles: 247
+DEBUG:root:Simulation time 313
+DEBUG:root:Minimum expected number of vehicles: 247
+DEBUG:root:Simulation time 314
+DEBUG:root:Minimum expected number of vehicles: 247
+DEBUG:root:Simulation time 315
+DEBUG:root:Minimum expected number of vehicles: 246
+DEBUG:root:Simulation time 316
+DEBUG:root:Minimum expected number of vehicles: 245
+DEBUG:root:Simulation time 317
+DEBUG:root:Minimum expected number of vehicles: 245
+DEBUG:root:Simulation time 318
+DEBUG:root:Minimum expected number of vehicles: 243
+DEBUG:root:Simulation time 319
+DEBUG:root:Minimum expected number of vehicles: 242
+DEBUG:root:Simulation time 320
+DEBUG:root:Minimum expected number of vehicles: 242
+DEBUG:root:Simulation time 321
+DEBUG:root:Minimum expected number of vehicles: 241
+DEBUG:root:Simulation time 322
+DEBUG:root:Minimum expected number of vehicles: 241
+DEBUG:root:Simulation time 323
+DEBUG:root:Minimum expected number of vehicles: 240
+DEBUG:root:Simulation time 324
+DEBUG:root:Minimum expected number of vehicles: 239
+DEBUG:root:Simulation time 325
+DEBUG:root:Minimum expected number of vehicles: 237
+DEBUG:root:Simulation time 326
+DEBUG:root:Minimum expected number of vehicles: 237
+DEBUG:root:Simulation time 327
+DEBUG:root:Minimum expected number of vehicles: 236
+DEBUG:root:Simulation time 328
+DEBUG:root:Minimum expected number of vehicles: 235
+DEBUG:root:Simulation time 329
+DEBUG:root:Minimum expected number of vehicles: 234
+DEBUG:root:Simulation time 330
+DEBUG:root:Minimum expected number of vehicles: 232
+DEBUG:root:Simulation time 331
+DEBUG:root:Minimum expected number of vehicles: 229
+DEBUG:root:Simulation time 332
+DEBUG:root:Minimum expected number of vehicles: 226
+DEBUG:root:Simulation time 333
+DEBUG:root:Minimum expected number of vehicles: 225
+DEBUG:root:Simulation time 334
+DEBUG:root:Minimum expected number of vehicles: 225
+DEBUG:root:Simulation time 335
+DEBUG:root:Minimum expected number of vehicles: 224
+DEBUG:root:Simulation time 336
+DEBUG:root:Minimum expected number of vehicles: 223
+DEBUG:root:Simulation time 337
+DEBUG:root:Minimum expected number of vehicles: 222
+DEBUG:root:Simulation time 338
+DEBUG:root:Minimum expected number of vehicles: 222
+DEBUG:root:Simulation time 339
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 340
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 341
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 342
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 343
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 344
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 345
+DEBUG:root:Minimum expected number of vehicles: 221
+DEBUG:root:Simulation time 346
+DEBUG:root:Minimum expected number of vehicles: 218
+DEBUG:root:Simulation time 347
+DEBUG:root:Minimum expected number of vehicles: 216
+DEBUG:root:Simulation time 348
+DEBUG:root:Minimum expected number of vehicles: 216
+DEBUG:root:Simulation time 349
+DEBUG:root:Minimum expected number of vehicles: 215
+DEBUG:root:Simulation time 350
+DEBUG:root:Minimum expected number of vehicles: 215
+DEBUG:root:Simulation time 351
+DEBUG:root:Minimum expected number of vehicles: 215
+DEBUG:root:Simulation time 352
+DEBUG:root:Minimum expected number of vehicles: 215
+DEBUG:root:Simulation time 353
+DEBUG:root:Minimum expected number of vehicles: 214
+DEBUG:root:Simulation time 354
+DEBUG:root:Minimum expected number of vehicles: 212
+DEBUG:root:Simulation time 355
+DEBUG:root:Minimum expected number of vehicles: 211
+DEBUG:root:Simulation time 356
+DEBUG:root:Minimum expected number of vehicles: 210
+DEBUG:root:Simulation time 357
+DEBUG:root:Minimum expected number of vehicles: 208
+DEBUG:root:Simulation time 358
+DEBUG:root:Minimum expected number of vehicles: 207
+DEBUG:root:Simulation time 359
+DEBUG:root:Minimum expected number of vehicles: 207
+DEBUG:root:Simulation time 360
+DEBUG:root:Updating travel time on roads at simulation time 360
+DEBUG:root:Minimum expected number of vehicles: 206
+DEBUG:root:Simulation time 361
+DEBUG:root:Minimum expected number of vehicles: 205
+DEBUG:root:Simulation time 362
+DEBUG:root:Minimum expected number of vehicles: 204
+DEBUG:root:Simulation time 363
+DEBUG:root:Minimum expected number of vehicles: 204
+DEBUG:root:Simulation time 364
+DEBUG:root:Minimum expected number of vehicles: 202
+DEBUG:root:Simulation time 365
+DEBUG:root:Minimum expected number of vehicles: 201
+DEBUG:root:Simulation time 366
+DEBUG:root:Minimum expected number of vehicles: 200
+DEBUG:root:Simulation time 367
+DEBUG:root:Minimum expected number of vehicles: 197
+DEBUG:root:Simulation time 368
+DEBUG:root:Minimum expected number of vehicles: 197
+DEBUG:root:Simulation time 369
+DEBUG:root:Minimum expected number of vehicles: 196
+DEBUG:root:Simulation time 370
+DEBUG:root:Minimum expected number of vehicles: 195
+DEBUG:root:Simulation time 371
+DEBUG:root:Minimum expected number of vehicles: 194
+DEBUG:root:Simulation time 372
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 373
+DEBUG:root:Minimum expected number of vehicles: 193
+DEBUG:root:Simulation time 374
+DEBUG:root:Minimum expected number of vehicles: 191
+DEBUG:root:Simulation time 375
+DEBUG:root:Minimum expected number of vehicles: 190
+DEBUG:root:Simulation time 376
+DEBUG:root:Minimum expected number of vehicles: 190
+DEBUG:root:Simulation time 377
+DEBUG:root:Minimum expected number of vehicles: 190
+DEBUG:root:Simulation time 378
+DEBUG:root:Minimum expected number of vehicles: 188
+DEBUG:root:Simulation time 379
+DEBUG:root:Minimum expected number of vehicles: 188
+DEBUG:root:Simulation time 380
+DEBUG:root:Minimum expected number of vehicles: 187
+DEBUG:root:Simulation time 381
+DEBUG:root:Minimum expected number of vehicles: 185
+DEBUG:root:Simulation time 382
+DEBUG:root:Minimum expected number of vehicles: 184
+DEBUG:root:Simulation time 383
+DEBUG:root:Minimum expected number of vehicles: 184
+DEBUG:root:Simulation time 384
+DEBUG:root:Minimum expected number of vehicles: 182
+DEBUG:root:Simulation time 385
+DEBUG:root:Minimum expected number of vehicles: 181
+DEBUG:root:Simulation time 386
+DEBUG:root:Minimum expected number of vehicles: 180
+DEBUG:root:Simulation time 387
+DEBUG:root:Minimum expected number of vehicles: 178
+DEBUG:root:Simulation time 388
+DEBUG:root:Minimum expected number of vehicles: 176
+DEBUG:root:Simulation time 389
+DEBUG:root:Minimum expected number of vehicles: 175
+DEBUG:root:Simulation time 390
+DEBUG:root:Minimum expected number of vehicles: 174
+DEBUG:root:Simulation time 391
+DEBUG:root:Minimum expected number of vehicles: 172
+DEBUG:root:Simulation time 392
+DEBUG:root:Minimum expected number of vehicles: 171
+DEBUG:root:Simulation time 393
+DEBUG:root:Minimum expected number of vehicles: 170
+DEBUG:root:Simulation time 394
+DEBUG:root:Minimum expected number of vehicles: 167
+DEBUG:root:Simulation time 395
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 396
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 397
+DEBUG:root:Minimum expected number of vehicles: 166
+DEBUG:root:Simulation time 398
+DEBUG:root:Minimum expected number of vehicles: 165
+DEBUG:root:Simulation time 399
+DEBUG:root:Minimum expected number of vehicles: 163
+DEBUG:root:Simulation time 400
+DEBUG:root:Minimum expected number of vehicles: 161
+DEBUG:root:Simulation time 401
+DEBUG:root:Minimum expected number of vehicles: 161
+DEBUG:root:Simulation time 402
+DEBUG:root:Minimum expected number of vehicles: 161
+DEBUG:root:Simulation time 403
+DEBUG:root:Minimum expected number of vehicles: 361
+DEBUG:root:Simulation time 404
+DEBUG:root:Minimum expected number of vehicles: 361
+DEBUG:root:Simulation time 405
+DEBUG:root:Minimum expected number of vehicles: 361
+DEBUG:root:Simulation time 406
+DEBUG:root:Minimum expected number of vehicles: 360
+DEBUG:root:Simulation time 407
+DEBUG:root:Minimum expected number of vehicles: 358
+DEBUG:root:Simulation time 408
+DEBUG:root:Minimum expected number of vehicles: 355
+DEBUG:root:Simulation time 409
+DEBUG:root:Minimum expected number of vehicles: 355
+DEBUG:root:Simulation time 410
+DEBUG:root:Minimum expected number of vehicles: 355
+DEBUG:root:Simulation time 411
+DEBUG:root:Minimum expected number of vehicles: 355
+DEBUG:root:Simulation time 412
+DEBUG:root:Minimum expected number of vehicles: 354
+DEBUG:root:Simulation time 413
+DEBUG:root:Minimum expected number of vehicles: 353
+DEBUG:root:Simulation time 414
+DEBUG:root:Minimum expected number of vehicles: 353
+DEBUG:root:Simulation time 415
+DEBUG:root:Minimum expected number of vehicles: 352
+DEBUG:root:Simulation time 416
+DEBUG:root:Minimum expected number of vehicles: 352
+DEBUG:root:Simulation time 417
+DEBUG:root:Minimum expected number of vehicles: 352
+DEBUG:root:Simulation time 418
+DEBUG:root:Minimum expected number of vehicles: 352
+DEBUG:root:Simulation time 419
+DEBUG:root:Minimum expected number of vehicles: 350
+DEBUG:root:Simulation time 420
+DEBUG:root:Updating travel time on roads at simulation time 420
+ERROR:root:Terminating SUMO
+Traceback (most recent call last):
+  File "generic_its.py", line 101, in start_simulation
+    run(network, begin, end, interval, route_log, replication, float(radius))
+  File "generic_its.py", line 66, in run
+    road_network_graph = traffic_mannager.update_traffic_on_roads(road_network_graph)
+  File "/Users/AllanMSouza/Dropbox/PhD/TMS Implementation/Cloud-Fog/ITS Template/src/traffic_mannager.py", line 14, in update_traffic_on_roads
+    average_speed = traci.edge.getLastStepMeanSpeed(road)
+  File "/Users/AllanMSouza/PhD/Environment/sumo-0.24.0/tools/traci/edge.py", line 167, in getLastStepMeanSpeed
+    return _getUniversal(tc.LAST_STEP_MEAN_SPEED, edgeID)
+  File "/Users/AllanMSouza/PhD/Environment/sumo-0.24.0/tools/traci/edge.py", line 51, in _getUniversal
+    return _RETURN_VALUE_FUNC[varID](result)
+  File "/Users/AllanMSouza/PhD/Environment/sumo-0.24.0/tools/traci/__init__.py", line 101, in readDouble
+    return self.read("!d")[0]
+KeyboardInterrupt
